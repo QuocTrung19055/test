@@ -1,0 +1,86 @@
+{
+  "product": [
+    {
+      "id":"SP1",
+      "name":"Iphone 14 Pro max",
+      "img" : "./img/1.png",
+      "price":240000000
+  },
+  {
+      "id":"SP2",
+      "name":"Iphone 14 Pro",
+      "img" : "./img/2.png",
+      "price":200000000
+  },
+  {
+      "id":"SP3",
+      "name":"Iphone 14",
+      "img" : "./img/3.png",
+      "price":350000
+  },
+  {
+      "id":"SP4",
+      "name":"Iphone 14 Plus",
+      "img" : "./img/4.png",
+      "price":564000
+  },
+  {
+      "id":"SP5",
+      "name":"IPad Gen 9",
+      "img" : "./img/5.png",
+      "price":654000
+  },
+  {
+      "id":"SP6",
+      "name":"Ipad Pro M2",
+      "img" : "./img/6.png",
+      "price":123000
+  },
+  {
+      "id":"SP7",
+      "name":"IPad Pro M2",
+      "img" : "./img/7.png",
+      "price":345000
+  },
+  {
+      "id":"SP8",
+      "name":"IPad Gen 10 Th",
+      "img" : "./img/8.png",
+      "price":258000
+  },
+  {
+    "id":"SP9",
+    "name":"aaaaa",
+    "img" : "./img/8.png",
+    "price":2615151
+}
+  ],
+
+"user" :
+    [
+        {
+            "id": "USER1",
+            "username": "admin",
+            "sdt": "0969399407",
+           " email": "",
+            "address": "",
+            "password": "1",
+           " role": "admin"
+
+        },
+        {
+           " id": "USER2",
+            "username": "user",
+           " name": "Tran Quoc Trung",
+            "sdt": "0969399407",
+           " email": "",
+            "address": "",
+           " password": "1",
+           " role": "user"
+
+        }
+    ]
+
+    
+}
+
